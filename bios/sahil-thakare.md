@@ -12,7 +12,6 @@
 - **Software Simulation Co-op** | Bendix Commercial Vehicle Systems LLC *(May 2024 – Jul 2024)*
 - **Software Engineering Co-op (Internal Tools)** | Bendix Commercial Vehicle Systems LLC *(Aug 2023 – Dec 2023)*
 - **Data Analysis Intern** | UC Housing Operations *(Aug 2025 – Present)*
-- **Undergraduate Researcher** | CincyNLP Lab *(Present)*
 - **Teaching Assistant (CS 2011 - Computer Systems)** | University of Cincinnati *(Jan 2025 – Apr 2025)*
 - **Honors Undergraduate Researcher** | UC Dept. of Engineering Education *(May 2023 – Jul 2023)*
 - **Supplemental Instructor / TA (Physics 2001 / Physics 2)** | UC Dept. of Physics *(Jan 2023 – Apr 2023)*
